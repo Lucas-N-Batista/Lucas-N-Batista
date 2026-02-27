@@ -2,10 +2,20 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Olá,+eu+sou+o+Lucas!;💻+Full+Stack+Developer;��+Mackenzie+%2B+PUC-Rio;🚀+Tech+Enthusiast&center=true&size=28&color=58A6FF&duration=4000&pause=1000">
 </div>
 
+## 📊 Estatísticas GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 ---
 
 ## 👨‍💻 Sobre Mim
