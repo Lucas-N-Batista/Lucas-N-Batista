@@ -2,20 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Olá,+eu+sou+o+Lucas!;💻+Full+Stack+Developer;��+Mackenzie+%2B+PUC-Rio;🚀+Tech+Enthusiast&center=true&size=28&color=58A6FF&duration=4000&pause=1000">
 </div>
 
-## 📊 Estatísticas GitHub
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-N-Batista&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-N-Batista&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=20" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 ---
 
 ## 👨‍💻 Sobre Mim
@@ -83,11 +73,11 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-N-Batista&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-N-Batista&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" />
 </div>
 
 ---
@@ -137,7 +127,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucastechnology)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-lucas.2008f@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.2008f@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com)
 
 </div>
@@ -145,7 +135,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=58A6FF&style=flat-square&label=Visualizações+do+Perfil" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Lucas-N-Batista&color=58A6FF&style=flat-square&label=Visualizações+do+Perfil" alt="Profile Views" />
 </div>
 
 <div align="center">
