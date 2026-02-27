@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+Eu+sou+Lucas+Nicoli+Batista;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia!&center=true&size=30&color=58A6FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Olá,+eu+sou+o+Lucas!;💻+Full+Stack+Developer;🎓+Mackenzie+%2B+PUC-Rio;��+Tech+Enthusiast&center=true&size=28&color=58A6FF&duration=4000&pause=1000">
 </div>
 
 <div align="center">
@@ -126,8 +126,8 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucastechnology)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-lucas.2008f@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com)
 
 </div>
