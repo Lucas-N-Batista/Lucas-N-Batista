@@ -96,7 +96,7 @@ Sou um **Full Stack Developer** apaixonado por tecnologia e inovação, com expe
 
 ## 🎓 Certificações
 
-> Espaço reservado para suas certificações. Adicione-as aqui conforme as obtenha!
+
 
 - 📜 Em desenvolvimento...
 
